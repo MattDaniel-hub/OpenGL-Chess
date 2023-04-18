@@ -18,13 +18,6 @@
 | NUM1, NUM3, NUM7 | Perspective Front, left, top |
 | F | Print camera position |
 
-<br>
+<br><br>
 
-<img src="./demo.png" width="500"/>
-
-
-
-
-<br>
-
-* Chess pieces models from Rehten@https://blendswap.com/blend/24490
+Chess pieces models credit to Rehten@https://blendswap.com/blend/24490
